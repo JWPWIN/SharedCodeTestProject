@@ -1,0 +1,14 @@
+D:\Documents\C#TestCode\CSharpConsolePro\bin\Debug\net9.0\CSharpConsolePro.exe
+D:\Documents\C#TestCode\CSharpConsolePro\bin\Debug\net9.0\CSharpConsolePro.deps.json
+D:\Documents\C#TestCode\CSharpConsolePro\bin\Debug\net9.0\CSharpConsolePro.runtimeconfig.json
+D:\Documents\C#TestCode\CSharpConsolePro\bin\Debug\net9.0\CSharpConsolePro.dll
+D:\Documents\C#TestCode\CSharpConsolePro\bin\Debug\net9.0\CSharpConsolePro.pdb
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\CSharpConsolePro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\CSharpConsolePro.AssemblyInfoInputs.cache
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\CSharpConsolePro.AssemblyInfo.cs
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\CSharpConsolePro.csproj.CoreCompileInputs.cache
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\CSharpConsolePro.dll
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\refint\CSharpConsolePro.dll
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\CSharpConsolePro.pdb
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\CSharpConsolePro.genruntimeconfig.cache
+D:\Documents\C#TestCode\CSharpConsolePro\obj\Debug\net9.0\ref\CSharpConsolePro.dll
