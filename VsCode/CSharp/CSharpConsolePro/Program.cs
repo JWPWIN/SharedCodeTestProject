@@ -1,24 +1,20 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
-using System.Text.Json;
-
-class Program
+﻿class Program
 {
     private static  readonly string itemInfoLoadPath = "./gameTotalItemsInfo.txt";
-    private static  readonly string itemInfoSavePath = "./gameTotalItemsInfoSave.txt";
-
-    private static Dictionary<int, Item_Item> itemInfos = new Dictionary<int, Item_Item>();
+    private static  readonly string itemInfoSavePath = "./gameTotalItemsInfo_TestSave.txt";
 
     static void Main(string[] args)
     {
+        //测试物品数据库读取接口
         var itemList_item = JsonTool.LoadJson<ItemList_Item>(itemInfoLoadPath);
-        // foreach (var item in itemList_item.gameTotalItemsInfo)
-        // {
-        //     Console.WriteLine(item.name); 
-        // }
-        JsonTool.SaveJson<ItemList_Item>(itemInfoSavePath,itemList_item);
+        //打印读取到的对象信息
+        foreach (var item in itemList_item.gameTotalItemsInfo)
+        {
+            Console.WriteLine(item.name + ":" + item.tips);
+        }
+        //测试保存物品数据库接口
+        JsonTool.SaveJson<ItemList_Item>(itemInfoSavePath, itemList_item);
+        Console.WriteLine("Save json file: " + itemInfoSavePath);
     }
 }
 

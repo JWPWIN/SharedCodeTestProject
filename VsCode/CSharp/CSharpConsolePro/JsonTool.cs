@@ -1,14 +1,14 @@
 using System.IO;
 using System.Text.Json;
-using System.Collections.Generic;
-using System.Text.Unicode;
 using System.Text.Encodings.Web;
+using System.Text;
 public static class JsonTool
 {
     public static T LoadJson<T>(string path)
     {
-        string info = File.ReadAllText(path);
-        var data = JsonSerializer.Deserialize<T>(info, new JsonSerializerOptions { IncludeFields = true });
+        byte[] bytes = File.ReadAllBytes(path);
+        string json = Encoding.UTF8.GetString(bytes);
+        var data = JsonSerializer.Deserialize<T>(json, new JsonSerializerOptions { IncludeFields = true });
         return data;
     }
 
@@ -16,6 +16,6 @@ public static class JsonTool
     {
         var options = new JsonSerializerOptions { WriteIndented = true, IncludeFields = true, Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping };
         string jsonString = JsonSerializer.Serialize(data, options);
-        File.WriteAllText(path, jsonString);
+        File.WriteAllBytes(path, Encoding.UTF8.GetBytes(jsonString));
     }
 }
