@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\CSharpConsolePro.csproj": {}
+    "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\Test_JsonTool\\CSharpConsolePro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\CSharpConsolePro.csproj": {
+    "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\Test_JsonTool\\CSharpConsolePro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\CSharpConsolePro.csproj",
+        "projectUniqueName": "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\Test_JsonTool\\CSharpConsolePro.csproj",
         "projectName": "CSharpConsolePro",
-        "projectPath": "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\CSharpConsolePro.csproj",
+        "projectPath": "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\Test_JsonTool\\CSharpConsolePro.csproj",
         "packagesPath": "C:\\Users\\PJW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\obj\\",
+        "outputPath": "C:\\Users\\PJW\\Desktop\\Github-Pros\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\Test_JsonTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PJW\\AppData\\Roaming\\NuGet\\NuGet.Config",
