@@ -1,0 +1,15 @@
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\bin\Debug\net9.0\MotorolaStartBit_LSB2MSB.exe
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\bin\Debug\net9.0\MotorolaStartBit_LSB2MSB.deps.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\bin\Debug\net9.0\MotorolaStartBit_LSB2MSB.runtimeconfig.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\bin\Debug\net9.0\MotorolaStartBit_LSB2MSB.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\bin\Debug\net9.0\MotorolaStartBit_LSB2MSB.pdb
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\MotorolaStartBit_LSB2MSB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\MotorolaStartBit_LSB2MSB.AssemblyInfoInputs.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\MotorolaStartBit_LSB2MSB.AssemblyInfo.cs
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\MotorolaStartBit_LSB2MSB.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\MotorolaStartBit_LSB2MSB.sourcelink.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\MotorolaStartBit_LSB2MSB.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\refint\MotorolaStartBit_LSB2MSB.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\MotorolaStartBit_LSB2MSB.pdb
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\MotorolaStartBit_LSB2MSB.genruntimeconfig.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\MotorolaStartBit_LSB2MSB\obj\Debug\net9.0\ref\MotorolaStartBit_LSB2MSB.dll
