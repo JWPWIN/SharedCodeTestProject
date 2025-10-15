@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotorolaStartBit_LSB2MSB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2418f71ba241dcccf4123e9a7c711d30871bbe6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deb315abf42f8f5ae40b3659c4546634d6da943f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotorolaStartBit_LSB2MSB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotorolaStartBit_LSB2MSB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
