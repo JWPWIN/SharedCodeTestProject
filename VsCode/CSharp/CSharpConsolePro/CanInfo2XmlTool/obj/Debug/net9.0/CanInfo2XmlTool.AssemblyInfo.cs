@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("MotorolaStartBit_LSB2MSB")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CanInfo2XmlTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b013f96b68d59b958b1a138cf7057ba2c2429b6a")]
-[assembly: System.Reflection.AssemblyProductAttribute("MotorolaStartBit_LSB2MSB")]
-[assembly: System.Reflection.AssemblyTitleAttribute("MotorolaStartBit_LSB2MSB")]
+[assembly: System.Reflection.AssemblyProductAttribute("CanInfo2XmlTool")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CanInfo2XmlTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

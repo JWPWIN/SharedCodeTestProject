@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\GitHub-Pro\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\MotorolaStartBit_LSB2MSB\\MotorolaStartBit_LSB2MSB.csproj",
-      "projectName": "MotorolaStartBit_LSB2MSB",
-      "projectPath": "D:\\Documents\\GitHub-Pro\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\MotorolaStartBit_LSB2MSB\\MotorolaStartBit_LSB2MSB.csproj",
+      "projectUniqueName": "D:\\Documents\\GitHub-Pro\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\CanInfo2XmlTool\\CanInfo2XmlTool.csproj",
+      "projectName": "CanInfo2XmlTool",
+      "projectPath": "D:\\Documents\\GitHub-Pro\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\CanInfo2XmlTool\\CanInfo2XmlTool.csproj",
       "packagesPath": "C:\\Users\\016437\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\GitHub-Pro\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\MotorolaStartBit_LSB2MSB\\obj\\",
+      "outputPath": "D:\\Documents\\GitHub-Pro\\SharedCodeTestProject\\VsCode\\CSharp\\CSharpConsolePro\\CanInfo2XmlTool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

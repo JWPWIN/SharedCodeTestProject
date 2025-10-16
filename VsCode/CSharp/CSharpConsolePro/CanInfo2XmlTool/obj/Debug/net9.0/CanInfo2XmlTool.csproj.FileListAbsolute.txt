@@ -1,0 +1,15 @@
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\CanInfo2XmlTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\CanInfo2XmlTool.AssemblyInfoInputs.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\CanInfo2XmlTool.AssemblyInfo.cs
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\CanInfo2XmlTool.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\CanInfo2XmlTool.sourcelink.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\bin\Debug\net9.0\CanInfo2XmlTool.exe
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\bin\Debug\net9.0\CanInfo2XmlTool.deps.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\bin\Debug\net9.0\CanInfo2XmlTool.runtimeconfig.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\bin\Debug\net9.0\CanInfo2XmlTool.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\bin\Debug\net9.0\CanInfo2XmlTool.pdb
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\CanInfo2XmlTool.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\refint\CanInfo2XmlTool.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\CanInfo2XmlTool.pdb
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\CanInfo2XmlTool.genruntimeconfig.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\CanInfo2XmlTool\obj\Debug\net9.0\ref\CanInfo2XmlTool.dll

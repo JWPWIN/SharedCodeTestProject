@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CANDB SignalFlag_Max="100" MessageFlag_Max="50">
+    <CANBUS CANMAP="1" Name="CAN1" Braud_normal="500" Braud_data="2000" SamplePoint_normal="87" SamplePoint_data="80" EventDUT="1">
+      <TxMessages>
+        <Message Flag="1" Name="Message1" ECU="ECU1" ID="256" CycleTime="100" DLC="8" Extern="0" CANFD="0" MultiplexingBit="0" MultiplexingLength="0" MultiplexingData="0" Field="">
+            <Signal Flag="1" SingalType="0" Name="Signal1" Description="This is signal 1" Unit="0" BitOrder="1" Signed="0" StartBit="0" BitLength="8" Resolution="1" Offset="0" MinData="0" MaxData="255" DefaultData="0" ChecksumAlgorithm="0">
+              <EnumStrings>
+                <EnumTable Data="0" String="Off" Color="0" />
+                <EnumTable Data="1" String="On" Color="1" />
+              </EnumStrings>
+            </Signal>
+            <Signal Flag="2" SingalType="0" Name="Signal2" Description="This is signal 2" Unit="0" BitOrder="1" Signed="0" StartBit="8" BitLength="16" Resolution="1" Offset="0" MinData="-32768" MaxData="32767" DefaultData="0" ChecksumAlgorithm="0">
+              <EnumStrings>
+                <EnumTable Data="0" String="Low" Color="0" />
+                <EnumTable Data="1" String="Medium" Color="1" />
+                <EnumTable Data="2" String="High" Color="2" />
+              </EnumStrings>
+            </Signal>
+        </Message>
+      </TxMessages>
+      <RxMessages>
+        <Message Flag="3" Name="Message2" ECU="ECU2" ID="512" CycleTime="200" DLC="8" Extern="0" CANFD="0" MultiplexingBit="0" MultiplexingLength="0" MultiplexingData="0" Field="">
+            <Signal Flag="3" SingalType="0" Name="Signal3" Description="This is signal 3" Unit="0" BitOrder="1" Signed="0" StartBit="0" BitLength="8" Resolution="1" Offset="0" MinData="0" MaxData="255" DefaultData="0" ChecksumAlgorithm="0">
+              <EnumStrings>
+                <EnumTable Data="0" String="Inactive" Color="0" />
+                <EnumTable Data="1" String="Active" Color="1" />
+              </EnumStrings>
+            </Signal>
+        </Message>
+      </RxMessages>
+    </CANBUS>
+  </CANDB>
+</root>
