@@ -1,0 +1,15 @@
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\bin\Debug\net9.0\SortAlgorithmTest.exe
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\bin\Debug\net9.0\SortAlgorithmTest.deps.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\bin\Debug\net9.0\SortAlgorithmTest.runtimeconfig.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\bin\Debug\net9.0\SortAlgorithmTest.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\bin\Debug\net9.0\SortAlgorithmTest.pdb
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\SortAlgorithmTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\SortAlgorithmTest.AssemblyInfoInputs.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\SortAlgorithmTest.AssemblyInfo.cs
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\SortAlgorithmTest.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\SortAlgorithmTest.sourcelink.json
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\SortAlgorithmTest.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\refint\SortAlgorithmTest.dll
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\SortAlgorithmTest.pdb
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\SortAlgorithmTest.genruntimeconfig.cache
+D:\Documents\GitHub-Pro\SharedCodeTestProject\VsCode\CSharp\CSharpConsolePro\SortAlgorithmTest\obj\Debug\net9.0\ref\SortAlgorithmTest.dll
